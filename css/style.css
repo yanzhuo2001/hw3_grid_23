@@ -135,7 +135,7 @@ nav a:hover, nav a:focus {
 /* Step 5: */
 .container > :first-child {
   grid-column: 1 / -1;
-  background-image: url('header.jpg');
+  background-image: url('../images/header.jpg');
 }
 
 /* Steps 6 and 7: */
